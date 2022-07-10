@@ -1,0 +1,3 @@
+gravity=0.5
+gravity_direction=global.veter //220+random(100) // � ����� ��� ����)) ��� ��� �� ��� ��� ����� � �������...
+

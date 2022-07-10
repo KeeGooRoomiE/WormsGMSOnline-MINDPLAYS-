@@ -1,0 +1,49 @@
+!!! Шрифт fnt_o использует шрифт (Arial Baltic) — не установлен на этой системе — шрифт НЕ был регенерирован
+Создана резервная копия текстуры шрифта GameMaker Studio 1 на ${project_dir}/fonts/fnt_o/fnt_o.gms1.png
+Конвертация скрипта GML: ${project_dir}/objects/draw_c/Draw_0.gml
+Конвертированный встроенный — линия 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/player_o/Step_2.gml
+Конвертированная строка — линия 73: 'R' -> "R"
+
+Конвертация скрипта GML: ${project_dir}/objects/view_xvvv/Step_1.gml
+Конвертированный встроенный — линия 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/draw_c2/Draw_0.gml
+Конвертированный встроенный — линия 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/panel_o/Draw_0.gml
+Конвертированный встроенный — линия 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 1: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/buttom_g1/Draw_0.gml
+Конвертированный встроенный — линия 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/buttom_g2/Draw_0.gml
+Конвертированный встроенный — линия 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/buttom_g3/Draw_0.gml
+Конвертированный встроенный — линия 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Конвертация скрипта GML: ${project_dir}/objects/buttom_g4/Draw_0.gml
+Конвертированный встроенный — линия 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Конвертированный встроенный — линия 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Скорость игры установлена на 30
+Добавленный скрипт совмещения 'background/draw_background_ext.gml'
+Добавленный скрипт совмещения 'instance/instance_create.gml'
+Добавленный скрипт совмещения 'object/object_get_depth.gml'
+Добавленный скрипт совмещения 'view/__view_get.gml'
+Добавленный скрипт совмещения 'background/__init_background.gml'
+Добавленный скрипт совмещения 'view/__init_view.gml'
+Добавленный скрипт совмещения '__init_global.gml'
+Добавленный скрипт совмещения '__global_object_depths.gml'

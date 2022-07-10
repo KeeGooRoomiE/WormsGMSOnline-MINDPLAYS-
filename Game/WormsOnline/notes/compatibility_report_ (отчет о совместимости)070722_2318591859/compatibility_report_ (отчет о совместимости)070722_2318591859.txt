@@ -1,0 +1,8 @@
+Скорость игры установлена на 30
+Добавленный скрипт совмещения 'action/action_kill_object.gml'
+Добавленный скрипт совмещения 'action/action_set_alarm.gml'
+Добавленный скрипт совмещения 'instance/instance_create.gml'
+Добавленный скрипт совмещения 'object/object_get_depth.gml'
+Добавленный скрипт совмещения 'action/__init_action.gml'
+Добавленный скрипт совмещения '__init_global.gml'
+Добавленный скрипт совмещения '__global_object_depths.gml'
